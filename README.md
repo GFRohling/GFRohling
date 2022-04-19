@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GFRohling
-- 👀 I’m interested in Solution Architecture
-- 🌱 I’m currently learning how to manage ADR in GitHub
+- 👀 I’m interested in all aspects of Architecture
+- 🌱 I’m currently coming to grips with Research Tech
 - 💞️ I’m looking to collaborate on nothing at the moment
 - 📫 How to reach me - usual channels
 
