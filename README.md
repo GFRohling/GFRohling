@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GFRohling
 - 👀 I’m interested in all aspects of Architecture
 - 🌱 I’m currently coming to grips with Research Tech
-- 💞️ I’m looking to collaborate on nothing at the moment
+- 💞️ I’m looking to collaborate on Backstage plugin development and C4 modeling
 - 📫 How to reach me - usual channels
 
 <!---
